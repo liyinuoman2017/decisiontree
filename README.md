@@ -24,7 +24,9 @@
 
 入门程序自动生成一组30个样品的特征数据，每个样品包含3个特征，30个样品对应了苹果、香蕉、橙子这三种水果。使用DecisionTreeClassifier方法建立一个决策树模型，训练模型，最后使用 plot_tree 函数可视化决策树的结构。
 
+
 ![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2024-07-21-21-32-49-image.png)
+
 
 ```c
 import numpy as np  
