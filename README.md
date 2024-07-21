@@ -12,11 +12,14 @@
 
 **模型评估**：两者都可以使用相同的评估指标来评估模型的性能，如准确率、召回率、F1分数等。
 
+
 ![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2024-07-21-22-09-57-image.png)
+
 
 虽然决策树和逻辑回归有上述相同点，但它在仍然存在差异。决**策树和逻辑回归最大的差异在于它们的模型算法原理不同**：**决策树**基于树形结构进行决策，通过一系列规则对数据进行分类。而**逻辑回归**使用逻辑函数（如sigmoid函数）对输入特征进行建模，将线性模型的输出转换为概率值，然后根据概率值判断样本所属的类别。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/10948b6b2d7d42f596d59f7b8af399a6.png)
+
 
 我们直接通过一个入门程序和一个进阶实战来熟悉决策树。
 
@@ -26,6 +29,7 @@
 
 
 ![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2024-07-21-21-32-49-image.png)
+
 
 
 ```c
